@@ -11,8 +11,8 @@ C = A - B;
 Console.WriteLine("A - B = " + C);
 
 
-//C = A * B;
-//Console.WriteLine("A * B = " + C);
+C = A * B;
+Console.WriteLine("A * B = " + C);
 
-//C = A / B;
-//Console.WriteLine("A / B = " + C);
+C = A / B;
+Console.WriteLine("A / B = " + C);
